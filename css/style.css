@@ -27,6 +27,10 @@
     color: floralwhite;
 }
 
+.button-color {
+    background-color: orange;
+}
+
 .address {
     font-size: 80%;
     margin: 0px;
@@ -34,5 +38,27 @@
 }
 
 .navbar-color {
-    background-color: orange;
+    background-color: #673ab7;
+}
+
+.tab-content {
+    border-bottom: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    padding: 10px;
+}
+
+.carousel {
+    background-color: #512DA8;
+}
+
+.carousel-item {
+    height: 300px;
+}
+
+.carousel-item img {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    min-height: 300px;
 }
